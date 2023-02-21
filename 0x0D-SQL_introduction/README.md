@@ -1,8 +1,8 @@
-#0x0D. SQL - Introduction
+# 0x0D. SQL - Introduction
 
-##Solutions to all SQL - Introduction tasks
+## Solutions to all SQL - Introduction tasks
 
-###Resources
+### Resources
 
 [A Basic MySQL Tutorial](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 
